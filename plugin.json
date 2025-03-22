@@ -87,17 +87,6 @@
       "type": "novel"
     },
     {
-      "name": "tianxibook-新天禧小说",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/tianxibook/plugin.zip",
-      "version": 1,
-      "source": "https://www.tianxibook.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/tianxibook/icon.png",
-      "description": "Đọc truyện trên trang tianxibook. Có thể dùng mã bổ sung để đổi domain",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "ijjxsw-net",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjxsw-net/plugin.zip",
