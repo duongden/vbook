@@ -12,17 +12,24 @@ function execute(url, page) {
         var data = [];
         var elems = $.QA(doc, 'li');
         if (!elems.length) return Response.error(url);
-        elems.forEach(function(e) {
+        elems.forEach(function (e) {
+            var link = $.Q(e, 'h3 > a').attr('href');
+            var m, id, cover;
+            if ((m = link.match(BASE_URL + /.+\/(book|b)\/(.*?)\.(htm|html)/)) && m[1] && (id = m[1])) {
+                cover = String.format('{0}/files/article/image/{1}/{2}/{3}s.jpg', "https://cdn.shucdn.com", Math.floor(id / 1000), id, id);
+            }
             data.push({
                 name: $.Q(e, '.newnav h3 > a:not([class])').text().trim(),
-                link: $.Q(e, 'h3 > a').attr('href'),
-                cover: $.Q(e, '.imgbox > img').attr('data-src').trim(),
-                description: $.Q(e, '.zxzj > p').text().replace('最近章节', ''),
+                link: link,
+                cover: cover || '',
+                description: $.Q(e, '.a', 1).text(),
                 host: BASE_URL
             })
         })
-        var next = parseInt(page, 10) + 1;
-        return Response.success(data, next.toString());
+        var next = parseInt(page,
+            10) + 1;
+        return Response.success(data,
+            next.toString());
     }
     return null;
 }
