@@ -1,20 +1,21 @@
 load("config.js");
 
 function execute(input, page) {
-    let response = fetch(BASE_URL + input);
+    let response = fetch(BASE_URL+input);
     if (response.ok) {
-        let doc = response.html('gbk');
-        let keywords = doc.select(".newbox ul li");
-        console.log(keywords);
+        let doc = response.html();
+        let booksList = doc.select(".mybox ul li");
+        console.log(booksList);
         let next = doc.select(".next").first().attr("href")
-        let books = []
-        keywords.forEach(book => {
+        let books = [];
+        booksList.forEach(book => {
             books.push({
-                name: book.select(".newnav h3").text(),
-                link: book.select(".newnav h3 a").first().attr("href"),
-                description: book.select(".ellipsis_2").text(),
-                host: BASE_URL
-            })
+                name: book.select(".newnav h3 a").text(),
+                link: book.select(".newnav h3 a").attr("href"),
+                cover: book.select("img").attr("data-src"),
+                description: book.select(".ellipsis_2").text().trim(),
+                host: BASE_URL // Ensure BASE_URL is defined
+            });
         });
         return Response.success(books, next);
     }
