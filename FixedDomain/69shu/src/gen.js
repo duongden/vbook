@@ -9,7 +9,7 @@ function execute(url, page) {
     if (response.ok) {
         let doc = response.html('gbk');
         var data = [];
-        var elems = $.QA(doc, 'li');
+        var elems = $.QA(doc, '#article_list_content li');
         if (!elems.length) return Response.error(url);
         elems.forEach(function (e) {
             var link = $.Q(e, 'h3 > a').attr('href'); // /book/88644.htm
