@@ -2,10 +2,10 @@
   "metadata": {
     "name": "ebookbao",
     "author": "Đường đen",
-    "version": 3,
-    "source": "https://m.ebookbao5.com",
-    "regexp": "https://m.ebookbao5.com/book/\\d+/",
-    "description": "Có thể sửa domain bằng mã bổ sung. Đọc truyện trên trang https://m.ebookbao.com/",
+    "version": 4,
+    "source": "https://m.ebookbao6.com",
+    "regexp": "https://m.ebookbao6.com/book/\\d+/",
+    "description": "Có thể sửa domain bằng mã bổ sung. Đọc truyện trên trang https://m.ebookbao6.com/",
     "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"

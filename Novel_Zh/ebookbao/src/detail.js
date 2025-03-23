@@ -14,8 +14,8 @@ function execute(url) {
             name: doc.select(".title").text(),
             cover: coverImg,
             author: author,
-            detail: "Tác giả: " + author,
-            description: doc.select("li.sort").text() + "<br>" + doc.select("#book_detail > li:nth-child(3)").text() + "<br>" + doc.select("#book_detail > li:nth-child(4)").text().replace(/\d\d:\d\d:\d\d/g, "") + "<br>" + doc.select(".review").text(),
+            detail: "Tác giả: " + author + "<br>" + doc.select("li.sort").text() + "<br>" + doc.select("#book_detail > li:nth-child(3)").text() + "<br>" + doc.select("#book_detail > li:nth-child(4)").text().replace(/\d\d:\d\d:\d\d/g, "") + "<br>",
+            description: doc.select(".review").text(),
             host: BASE_URL
         });
     }

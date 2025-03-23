@@ -87,6 +87,17 @@
       "type": "novel"
     },
     {
+      "name": "ijjxsw.cc",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjxsw-cc/plugin.zip",
+      "version": 1,
+      "source": "http://www.ijjxsw.cc",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjxsw-cc/icon.png",
+      "description": "Đọc truyện trên trang ijjxsw.cc",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "ijjxsw-net",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjxsw-net/plugin.zip",
@@ -127,17 +138,6 @@
       "source": "http://www.biqu5200.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biqu5200/icon.png",
       "description": "Đọc truyện trên trang biqu5200.net.",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "dajiadu8",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/dajiadu8/plugin.zip",
-      "version": 1,
-      "source": "https://www.dajiadu8.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/dajiadu8/icon.png",
-      "description": "Đọc truyện trên trang dajiadu8. Search bằng browser",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
@@ -231,17 +231,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "bqgbi",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/bqgbi/plugin.zip",
-      "version": 4,
-      "source": "https://www.bqgbi.cc",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/bqgbi/icon.png",
-      "description": "Đọc truyện trên trang bqgbi.com",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "笔趣阁-b520",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/b520.cc/plugin.zip",
@@ -249,28 +238,6 @@
       "source": "https://www.b520.cc",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/b520.cc/icon.png",
       "description": "Đọc truyện trên trang https://www.b520.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "笔趣阁 - biquge.co",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biquge-co/plugin.zip",
-      "version": 4,
-      "source": "https://www.biquge-co",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biquge-co/icon.png",
-      "description": "Đọc truyện trên trang biquge-co",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "笔趣阁 - biquge.la",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biquge-la/plugin.zip",
-      "version": 2,
-      "source": "https://www.biquge.la",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biquge-la/icon.png",
-      "description": "Đọc truyện trên trang https://www.biquge.la",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
@@ -297,17 +264,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "2K小说网-2kxs",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/2kxs-cc/plugin.zip",
-      "version": 5,
-      "source": "https://www.2kxs.cc",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/2kxs-cc/icon.png",
-      "description": "Đọc truyện trên trang https://www.2kxs.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "书趣阁-ishuquge",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ishuquge/plugin.zip",
@@ -319,17 +275,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "chuandaipc",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/chuandaipc/plugin.zip",
-      "version": 2,
-      "source": "https://www.chuandaipc.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/chuandaipc/icon.png",
-      "description": "Đọc truyện trên trang https://www.chuandaipc.com",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "shukw",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/shukw/shukw.zip",
@@ -337,17 +282,6 @@
       "source": "https://www.menlx.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/shukw/icon.png",
       "description": "Đọc truyện trên trang menlx.com",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "ddyueshu",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ddyueshu/plugin.zip",
-      "version": 1,
-      "source": "http://www.ddyueshu.com/",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ddyueshu/icon.png",
-      "description": "Đọc truyện trên trang http://www.ddyueshu.com/",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
@@ -407,17 +341,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "爱笔楼-ibiquge.net",
-      "author": "Moleys",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ibiquge/plugin.zip",
-      "version": 10,
-      "source": "http://www.ibiquzw.info",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ibiquge/icon.png",
-      "description": "Đọc truyện trên trang ibiquzw.info",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "xmsw [轩墨书屋]",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/xmsw/plugin.zip",
@@ -425,17 +348,6 @@
       "source": "https://www.xmsw.cc",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/xmsw/icon.png",
       "description": "Đọc truyện trên trang xmsw.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "xtongren [Đồng nhân văn học]",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/gxtongren/plugin.zip",
-      "version": 1,
-      "source": "https://www.gxtongren.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/gxtongren/icon.png",
-      "description": "Đọc truyện trên trang gxtongren.com",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
@@ -487,10 +399,10 @@
       "name": "ebookbao",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ebookbao/plugin.zip",
-      "version": 3,
-      "source": "https://www.ebookbao5.com",
+      "version": 4,
+      "source": "https://www.ebookbao6.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ebookbao/icon.png",
-      "description": "Đọc truyện trên trang ebookbao5.com",
+      "description": "Đọc truyện trên trang ebookbao6.com",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
