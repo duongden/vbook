@@ -1,3 +1,4 @@
+load('config.js');
 function execute(url) {
     let response = fetch(url + "/");
     if (response.ok) {
@@ -12,8 +13,8 @@ function execute(url) {
             var e = el.get(i);
             data.push({
                 name: e.select("a").text(),
-                url: "https://www.x33xs4.com" + e.attr("href"),
-                host: "https://www.x33xs4.com"
+                url: BASE_URL + e.attr("href"),
+                host: BASE_URL
             })
         }
         return Response.success(data);

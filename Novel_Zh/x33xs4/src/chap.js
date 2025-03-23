@@ -1,5 +1,6 @@
+load('config.js');
 function execute(url) {
-    url = url.replace('m.x33xs4.com', 'www.x33xs4.com');
+    url = url.replace(/^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n?]+)/img, BASE_URL);
     let response = fetch(url);
     if (response.ok) {
         let doc = response.html();

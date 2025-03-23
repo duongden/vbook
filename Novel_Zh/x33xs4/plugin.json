@@ -2,10 +2,10 @@
   "metadata": {
     "name": "x33xs4",
     "author": "Đường đen",
-    "version": 1,
-    "source": "https://www.x33xs4.com",
-    "regexp": "(www.|m.)x33xs4.com/33xs/\\d+/\\d+/?$",
-    "description": "Đọc truyện trên trang x33xs4.com",
+    "version": 2,
+    "source": "https://www.x33xs6.com",
+    "regexp": "(www.|m.)x33xs(.*?).com/33xs/\\d+/\\d+/?$",
+    "description": "Đọc truyện trên trang x33xs6.com",
     "local": "zh-CN",
     "language": "javascript",
     "type": "chinese_novel"

@@ -1,5 +1,6 @@
+load('config.js');
 function execute(url) {
-    url = url.replace('m.x33xs4.com', 'www.x33xs4.com');
+    url = url.replace(/^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n?]+)/img, BASE_URL);
     if (url.slice(-1) !== "/")
         url = url + "/";
     let response = fetch(url);
@@ -19,7 +20,7 @@ function execute(url) {
             author: author,
             description: descriptionMeta,
             detail: "Tác giả: " + author + '<br>' + "Thể loại: " + novelCategory + '<br>' + "Tình trạng: " + status + '<br>' + "Mới nhất: " + newChap + '<br>' + "Thời gian cập nhật: " + updateTime,
-            host: "https://www.x33xs4.com"
+            host: BASE_URL,
         });
     }
     return null;

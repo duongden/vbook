@@ -154,17 +154,6 @@
       "tag": "nsfw"
     },
     {
-      "name": "zbcxw",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zbcxw/plugin.zip",
-      "version": 1,
-      "source": "https://www.zbcxw.cn",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zbcxw/icon.png",
-      "description": "Đọc truyện trên trang zbcxw.cn",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "idejian",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/idejian/plugin.zip",
@@ -190,10 +179,10 @@
       "name": "x33xs4",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/x33xs4/plugin.zip",
-      "version": 1,
-      "source": "https://www.x33xs4.com",
+      "version": 2,
+      "source": "https://www.x33xs6.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/x33xs4/icon.png",
-      "description": "Đọc truyện trên trang x33xs4.com",
+      "description": "Đọc truyện trên trang x33xs6.com",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
@@ -205,17 +194,6 @@
       "source": "https://www.b520.cc",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/b520.cc/icon.png",
       "description": "Đọc truyện trên trang https://www.b520.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "无极小说-wujixsw.com",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/wujixsw/plugin.zip",
-      "version": 1,
-      "source": "https://wujixsw.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/wujixsw/icon.png",
-      "description": "Đọc truyện trên trang https://wujixsw.com",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
@@ -284,50 +262,6 @@
       "description": "Trang qicaitian.org ko cho search",
       "type": "chinese_novel",
       "locale": "zh_CN"
-    },
-    {
-      "name": "xmsw [轩墨书屋]",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/xmsw/plugin.zip",
-      "version": 2,
-      "source": "https://www.xmsw.cc",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/xmsw/icon.png",
-      "description": "Đọc truyện trên trang xmsw.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "zrfsxs",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zrfsxs/plugin.zip",
-      "version": 1,
-      "source": "https://www.zrfsxs.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zrfsxs/icon.png",
-      "description": "Đọc truyện trên trang zrfsxs.com",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "wcxs5",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/wcxs5/plugin.zip",
-      "version": 1,
-      "source": "https://www.wcxs5.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/wcxs5/icon.png",
-      "description": "Đọc truyện trên trang wcxs5.com",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "zinmanga",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Comic_EN/zinmanga/plugin.zip",
-      "version": 4,
-      "source": "https://zinmanga.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Comic_EN/zinmanga/icon.png",
-      "description": "Đọc truyện trên trang zinmanga",
-      "locale": "en_US",
-      "type": "comic"
     },
     {
       "name": "readlightnovel",
