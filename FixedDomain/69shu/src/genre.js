@@ -1,17 +1,17 @@
 function execute() {
     return Response.success([
-        {title: "言情小说", input: "/novels/full/3.htm", script: "gen.js"},
-        {title: "玄幻魔法", input: "/novels/full/1.htm", script: "gen.js"},
-        {title: "修真武侠", input: "/novels/full/2.htm", script: "gen.js"},
-        {title: "穿越时空", input: "/novels/full/11.htm", script: "gen.js"},
-        {title: "都市小说", input: "/novels/full/9.htm", script: "gen.js"},
-        {title: "历史军事", input: "/novels/full/4.htm", script: "gen.js"},
-        {title: "游戏竞技", input: "/novels/full/5.htm", script: "gen.js"},
-        {title: "科幻空间", input: "/novels/full/6.htm", script: "gen.js"},
-        {title: "悬疑惊悚", input: "/novels/full/7.htm", script: "gen.js"},
-        {title: "同人小说", input: "/novels/full/8.htm", script: "gen.js"},
-        {title: "官场职场", input: "/novels/full/10.htm", script: "gen.js"},
-        {title: "青春校园", input: "/novels/full/12.htm", script: "gen.js"},
+        {title: "言情小说", input: "/novels/newhot_3_0_{0}.htm", script: "gen.js"},
+        {title: "玄幻魔法", input: "/novels/newhot_1_0_{0}.htm", script: "gen.js"},
+        {title: "修真武侠", input: "/novels/newhot_2_0_{0}.htm", script: "gen.js"},
+        {title: "穿越时空", input: "/novels/newhot_11_0_{0}.htm", script: "gen.js"},
+        {title: "都市小说", input: "/novels/newhot_9_0_{0}.htm", script: "gen.js"},
+        {title: "历史军事", input: "/novels/newhot_4_0_{0}.htm", script: "gen.js"},
+        {title: "游戏竞技", input: "/novels/newhot_5_0_{0}.htm", script: "gen.js"},
+        {title: "科幻空间", input: "/novels/newhot_6_0_{0}.htm", script: "gen.js"},
+        {title: "悬疑惊悚", input: "/novels/newhot_7_0_{0}.htm", script: "gen.js"},
+        {title: "同人小说", input: "/novels/newhot_8_0_{0}.htm", script: "gen.js"},
+        {title: "官场职场", input: "/novels/newhot_10_0_{0}.htm", script: "gen.js"},
+        {title: "青春校园", input: "/novels/newhot_12_0_{0}.htm", script: "gen.js"},
         { title: "穿越", input: "/穿越/", script: "gen2.js" },
         { title: "轻松", input: "/轻松/", script: "gen2.js" },
         { title: "系统流", input: "/系统流/", script: "gen2.js" },
@@ -60,8 +60,6 @@ function execute() {
         { title: "文娱", input: "/文娱/", script: "gen2.js" },
         { title: "娱乐圈", input: "/娱乐圈/", script: "gen2.js" },
         { title: "赚钱", input: "/赚钱/", script: "gen2.js" },
-        { title: "强者归来", input: "/强者归来/", script: "gen2.js" },
-        { title: "婚恋", input: "/婚恋/", script: "gen2.js" },
-        { title: "明星", input: "/明星/", script: "gen2.js" }
+        { title: "强者归来", input: "/强者归来/", script: "gen2.js" }
     ]);
 }

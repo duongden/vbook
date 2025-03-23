@@ -33,9 +33,8 @@ function execute(url, page) {
                 host: BASE_URL
             });
         });
-
-        var next = (parseInt(page, 10) + 1).toString();
-        return Response.success(data, next);
+        var next = parseInt(page, 10) + 1;
+        return Response.success(data, next.toString());
     }
     return null;
 }
