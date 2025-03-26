@@ -3,7 +3,17 @@
     "author": "Đường đen",
     "description": "amateur"
   },
-  "data": [
+  "data": [{
+      "name": "Xbanxia - repo Đường đen",
+      "author": "bexom",
+      "path": "https://raw.githubusercontent.com/b3x0m/vbook-ext/main/FixedDomain/xbanxia/plugin.zip",
+      "version": 2,
+      "source": "https://www.xbanxia.com",
+      "icon": "https://raw.githubusercontent.com/b3x0m/vbook-ext/main/FixedDomain/xbanxia/icon.png",
+      "description": "Đọc truyện trên trang Xbanxia",
+      "type": "chinese_novel",
+      "locale": "zh-CN"
+    },
     {
       "name": "69shu - repo Đường đen",
       "author": "Đường đen",
@@ -15,7 +25,7 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-      {
+    {
       "name": "言情小说阁 (APP)",
       "author": "Nhocconsr",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/maoyankanshu.zip",
