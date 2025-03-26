@@ -6,10 +6,10 @@
   "data": [{
       "name": "Xbanxia - repo Đường đen",
       "author": "bexom",
-      "path": "https://raw.githubusercontent.com/b3x0m/vbook-ext/main/FixedDomain/xbanxia/plugin.zip",
-      "version": 2,
-      "source": "https://www.xbanxia.com",
-      "icon": "https://raw.githubusercontent.com/b3x0m/vbook-ext/main/FixedDomain/xbanxia/icon.png",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/xbanxia/plugin.zip",
+      "version": 3,
+      "source": "https://www.xbanxia.cc",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/xbanxia/icon.png",
       "description": "Đọc truyện trên trang Xbanxia",
       "type": "chinese_novel",
       "locale": "zh-CN"
