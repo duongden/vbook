@@ -12,6 +12,7 @@ function execute(url,page) {
         const data = [];
 		doc.select(".rank_ullist li").forEach(e => {
             data.push({
+                cover:e.select("img").first().attr("src"),
                 name: e.select(".rank_bkname a").first().text(),
                 link: BASE_URL + e.select(".rank_bkname a").first().attr("href"),
                 description: e.select(".author").first().text(),

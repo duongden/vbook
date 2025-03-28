@@ -1,21 +1,18 @@
-function execute(url) {
-    let response = fetch(url);
+function execute(chapterUrl) {
+
+    // Chuyển đổi URL sang API của WeChat
+    const apiUrl = chapterUrl
+        .replace("https://www.idejian.com", "https://wechat.idejian.com/api/wechat")
+        .replace(".html", "");
+
+    // Gửi request đến API
+    const response = fetch(apiUrl);
+
     if (response.ok) {
-        let doc = response.html();
-        doc.select("h1").remove();
-        doc.select(".zhangyue-tablebody").remove();
-        let htm = doc.select(".h5_mainbody").html();
-        htm = cleanHtml(htm);
-        return Response.success(htm);
+        const result = response.json();
+        console.log(result.body.content);
+        return Response.success(result.body.content);
     }
-    return null;
-}
-//clear rác
-function cleanHtml(htm) {
-    htm = htm.replace(/(<br>\s*){2,}/g, '<br>');
-    htm = htm.replace(/<a[^>]*>([^<]+)<\/a>/g, '');
-    htm = htm.replace(/&(nbsp|amp|quot|lt|gt);/g, "");
-    htm = htm.replace(/<!--(<br \/>)?[^>]*-->/gm, '');
-    htm = htm.replace(/\&nbsp;/g, "");
-    return htm;
+    // Chuyển đổi JSON
+
 }

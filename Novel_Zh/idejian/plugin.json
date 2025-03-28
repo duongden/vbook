@@ -2,10 +2,10 @@
   "metadata": {
     "name": "idejian",
     "author": "Đường đen",
-    "version": 4,
+    "version": 5,
     "source": "https://www.idejian.com",
     "regexp": "www.idejian.(.*?)/book/\\d+/?",
-    "description": "Trang idejian dùng giao diện Desktop",
+    "description": "Đọc truyện trên idejian",
     "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
