@@ -1,65 +1,24 @@
+load('libs.js');
+load('config.js');
 function execute() {
-    return Response.success([
-        {title: "言情小说", input: "/novels/newhot_3_0_{0}.htm", script: "gen.js"},
-        {title: "玄幻魔法", input: "/novels/newhot_1_0_{0}.htm", script: "gen.js"},
-        {title: "修真武侠", input: "/novels/newhot_2_0_{0}.htm", script: "gen.js"},
-        {title: "穿越时空", input: "/novels/newhot_11_0_{0}.htm", script: "gen.js"},
-        {title: "都市小说", input: "/novels/newhot_9_0_{0}.htm", script: "gen.js"},
-        {title: "历史军事", input: "/novels/newhot_4_0_{0}.htm", script: "gen.js"},
-        {title: "游戏竞技", input: "/novels/newhot_5_0_{0}.htm", script: "gen.js"},
-        {title: "科幻空间", input: "/novels/newhot_6_0_{0}.htm", script: "gen.js"},
-        {title: "悬疑惊悚", input: "/novels/newhot_7_0_{0}.htm", script: "gen.js"},
-        {title: "同人小说", input: "/novels/newhot_8_0_{0}.htm", script: "gen.js"},
-        {title: "官场职场", input: "/novels/newhot_10_0_{0}.htm", script: "gen.js"},
-        {title: "青春校园", input: "/novels/newhot_12_0_{0}.htm", script: "gen.js"},
-        { title: "穿越", input: "/穿越/", script: "gen2.js" },
-        { title: "轻松", input: "/轻松/", script: "gen2.js" },
-        { title: "系统流", input: "/系统流/", script: "gen2.js" },
-        { title: "重生", input: "/重生/", script: "gen2.js" },
-        { title: "女强", input: "/女强/", script: "gen2.js" },
-        { title: "甜宠", input: "/甜宠/", script: "gen2.js" },
-        { title: "1V1", input: "/1V1/", script: "gen2.js" },
-        { title: "爽文", input: "/爽文/", script: "gen2.js" },
-        { title: "无敌流", input: "/无敌流/", script: "gen2.js" },
-        { title: "热血", input: "/热血/", script: "gen2.js" },
-        { title: "豪门", input: "/豪门/", script: "gen2.js" },
-        { title: "腹黑", input: "/腹黑/", script: "gen2.js" },
-        { title: "扮猪吃虎", input: "/扮猪吃虎/", script: "gen2.js" },
-        { title: "种田", input: "/种田/", script: "gen2.js" },
-        { title: "宅斗", input: "/宅斗/", script: "gen2.js" },
-        { title: "日久生情", input: "/日久生情/", script: "gen2.js" },
-        { title: "HE", input: "/HE/", script: "gen2.js" },
-        { title: "逆袭", input: "/逆袭/", script: "gen2.js" },
-        { title: "经营", input: "/经营/", script: "gen2.js" },
-        { title: "杀伐果断", input: "/杀伐果断/", script: "gen2.js" },
-        { title: "快节奏", input: "/快节奏/", script: "gen2.js" },
-        { title: "日常文", input: "/日常文/", script: "gen2.js" },
-        { title: "架空", input: "/架空/", script: "gen2.js" },
-        { title: "欢喜冤家", input: "/欢喜冤家/", script: "gen2.js" },
-        { title: "权谋", input: "/权谋/", script: "gen2.js" },
-        { title: "总裁", input: "/总裁/", script: "gen2.js" },
-        { title: "打脸", input: "/打脸/", script: "gen2.js" },
-        { title: "强强", input: "/强强/", script: "gen2.js" },
-        { title: "家长里短", input: "/家长里短/", script: "gen2.js" },
-        { title: "萌宝", input: "/萌宝/", script: "gen2.js" },
-        { title: "校园", input: "/校园/", script: "gen2.js" },
-        { title: "无限流", input: "/无限流/", script: "gen2.js" },
-        { title: "智商在线", input: "/智商在线/", script: "gen2.js" },
-        { title: "冷静", input: "/冷静/", script: "gen2.js" },
-        { title: "空间", input: "/空间/", script: "gen2.js" },
-        { title: "宫斗", input: "/宫斗/", script: "gen2.js" },
-        { title: "异能", input: "/异能/", script: "gen2.js" },
-        { title: "诸天流", input: "/诸天流/", script: "gen2.js" },
-        { title: "快穿", input: "/快穿/", script: "gen2.js" },
-        { title: "先婚后爱", input: "/先婚后爱/", script: "gen2.js" },
-        { title: "脑洞大", input: "/脑洞大/", script: "gen2.js" },
-        { title: "帝王", input: "/帝王/", script: "gen2.js" },
-        { title: "金手指", input: "/金手指/", script: "gen2.js" },
-        { title: "穿书", input: "/穿书/", script: "gen2.js" },
-        { title: "大佬", input: "/大佬/", script: "gen2.js" },
-        { title: "文娱", input: "/文娱/", script: "gen2.js" },
-        { title: "娱乐圈", input: "/娱乐圈/", script: "gen2.js" },
-        { title: "赚钱", input: "/赚钱/", script: "gen2.js" },
-        { title: "强者归来", input: "/强者归来/", script: "gen2.js" }
-    ]);
+    let tag_url = BASE_URL + "/tags";
+    console.log(tag_url);
+    let response = fetch(tag_url);
+    if (!response.ok) {
+        return Response.success(["not ok"]);
+    }
+    let doc = response.html('gbk');
+    let _div = doc.select(".tag");
+    let _ul = _div.select("a");
+
+    let data = _ul.map(function(a) {return a.text()});
+    let result = data.map(item => {
+        return {
+            title: item,
+            input: `/${item}/`,
+            script: "gen2.js"
+        };
+    });
+
+    return Response.success(result);
 }
