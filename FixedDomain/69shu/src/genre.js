@@ -1,24 +1,20 @@
 load('libs.js');
 load('config.js');
+// genre.js
 function execute() {
-    let tag_url = BASE_URL + "/tags";
-    console.log(tag_url);
-    let response = fetch(tag_url);
+    let response = fetch(BASE_URL + "/tags");
     if (!response.ok) {
-        return Response.success(["not ok"]);
+        return null;
     }
-    let doc = response.html('gbk');
-    let _div = doc.select(".tag");
-    let _ul = _div.select("a");
+    let doc = response.html("gbk");
 
-    let data = _ul.map(function(a) {return a.text()});
-    let result = data.map(item => {
-        return {
-            title: item,
-            input: `/${item}/`,
+    const result = [];
+    doc.select(".tag a").forEach(function (e) {
+        result.push({
+            title: e.text(),
+            input: `/${e.text()}/`,
             script: "gen2.js"
-        };
+        })
     });
-
     return Response.success(result);
 }
