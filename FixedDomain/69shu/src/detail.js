@@ -6,7 +6,7 @@ function execute(url) {
         load('gbk.js');
         return GBK.encode(s);
     }
-
+/*
     // Thiết lập BASE_URL và CDN_URL dựa trên domain
     if (url.indexOf("69shuba.com") !== -1) {
         BASE_URL = "https://69shuba.com";
@@ -14,7 +14,7 @@ function execute(url) {
     } else {
         BASE_URL = "https://69shuba.cx";
         CDN_URL = "https://static.69shuba.cx";
-    }
+    } */
 
     // Chuẩn hoá URL
     url = url.replace(/^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n?]+)/img, BASE_URL);
