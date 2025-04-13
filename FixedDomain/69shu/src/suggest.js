@@ -4,7 +4,7 @@ function execute(input, page) {
     let response = fetch(BASE_URL+input);
     if (response.ok) {
         let doc = response.html();
-        let booksList = doc.select(".mybox ul li");
+        let booksList = doc.select(".mybox .newbox ul li");
         console.log(booksList);
         let next = doc.select(".next").first().attr("href")
         let books = [];
