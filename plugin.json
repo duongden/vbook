@@ -305,7 +305,7 @@
       "locale": "vi_VN",
       "type": "novel"
     },
-        {
+    {
       "name": "Yêu Truyện",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/yeutruyen/plugin.zip",
@@ -316,7 +316,18 @@
       "locale": "vi_VN",
       "type": "novel"
     },
-            {
+    {
+      "name": "Lão phật gia",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/laophatgia/plugin.zip",
+      "version": 1,
+      "source": "https://laophatgia.net",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/laophatgia/icon.png",
+      "description": "Đọc truyện trên trang Lão phật gia",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
       "name": "Đảo Truyện",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/daotruyen/plugin.zip",
