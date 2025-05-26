@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "x33xs4",
+    "author": "Đường đen",
+    "version": 2,
+    "source": "https://www.x33xs6.com",
+    "regexp": "(www.|m.)x33xs(.*?).com/33xs/\\d+/\\d+/?$",
+    "description": "Đọc truyện trên trang x33xs6.com",
+    "local": "zh-CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

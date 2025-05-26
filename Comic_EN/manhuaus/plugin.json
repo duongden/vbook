@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "manhuaus",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://manhuaus.com",
+    "regexp": "https://manhuaus.com/manga/[0-9a-z-]+/?$",
+    "description": "zinmanga",
+    "locale": "en_US",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

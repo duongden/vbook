@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Nàng thơ",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://nangtho.site",
+    "regexp": "^(?:https?:\\/\\/)?nangtho\\.site\\/truyen\\/[0-9a-z-]+\\/?$",
+    "description": "Đọc truyện trên trang nangtho",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "soha",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://m.soha.vn",
+    "regexp": "https://m.soha.vn/(.*?)[.]htm",
+    "description": "Đọc soha",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

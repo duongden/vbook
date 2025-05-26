@@ -1,0 +1,1 @@
+var BASE_URL = "https://q.kyhuyen.com";  // Ưu tiên .com

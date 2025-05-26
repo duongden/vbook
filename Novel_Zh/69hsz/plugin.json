@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "69hsz",
+    "author": "Đường đen",
+    "version": 3,
+    "source": "https://www.69hsz.net",
+    "regexp": "(www.|m.)?69hsz(.com|.net)/\\d+/?$",
+    "description": "Đọc sách trên trang 69hsz",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

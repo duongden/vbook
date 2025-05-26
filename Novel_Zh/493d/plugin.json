@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "493d",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://www.493d.com",
+    "regexp": "(www.)?493d.com/book/\\d+(/?|\\.html)",
+    "description": "Đọc truyện trên trang 493d.com",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "search": "search.js"
+  }
+}

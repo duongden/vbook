@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "soxscc",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://www.soxscc.net",
+    "regexp": "(www.)?soxscc.net/\\d+/?$",
+    "description": "soxscc.net - search bằng browser",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "search": "search.js",
+    "chap": "chap.js"
+  }
+}

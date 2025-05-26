@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Tinh Linh",
+    "author": "Đường đen",
+    "version": 2,
+    "source": "https://tinhlinh.com",
+    "regexp": "https://tinhlinh.com/truyen/[a-z-0-9]+/?$",
+    "description": "Read novel https://tinhlinh.com",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "genre": "genre.js",
+    "chap": "chap.js"
+  }
+}

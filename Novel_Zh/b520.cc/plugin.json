@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "笔趣阁-b520",
+    "author": "Đường đen",
+    "version": 3,
+    "source": "http://www.b520.cc",
+    "regexp": "(www.|m.)?b520.cc/\\d+_\\d+/?$",
+    "description": "Đọc truyện trên trang http://www.b520.cc",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

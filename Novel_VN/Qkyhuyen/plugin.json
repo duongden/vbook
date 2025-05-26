@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Dịch truyện tự động từ Qidian",
+    "author": "Đường đen",
+    "version": 3,
+    "source": "https://q.kyhuyen.com",
+    "regexp": "https://q.kyhuyen.com/[a-z-0-9]+/?$",
+    "description": "Read novel q.kyhuyen",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "genre": "genre.js",
+    "chap": "chap.js"
+  }
+}

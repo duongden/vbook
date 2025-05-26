@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Tuổi Trẻ",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://tuoitre.vn",
+    "regexp": "tuoitre.vn/(.*?)[.]htm",
+    "description": "Đọc Tuổi Trẻ",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
