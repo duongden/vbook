@@ -2,7 +2,7 @@
   "metadata": {
     "name": "idejian",
     "author": "Đường đen",
-    "version": 5,
+    "version": 6,
     "source": "https://www.idejian.com",
     "regexp": "www.idejian.(.*?)/book/\\d+/?",
     "description": "Đọc truyện trên idejian",
