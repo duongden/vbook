@@ -273,17 +273,6 @@
       "type": "novel"
     },
     {
-      "name": "Nàng Thơ",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/nangtho/plugin.zip",
-      "version": 1,
-      "source": "https://nangtho.site",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/nangtho/icon.png",
-      "description": "Đọc truyện trên trang nangtho",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
-    {
       "name": "Dịch truyện tự động từ Qidian",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/Qkyhuyen/plugin.zip",
@@ -291,39 +280,6 @@
       "source": "https://q.kyhuyen.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/Qkyhuyen/icon.png",
       "description": "Đọc truyện trên trang https://q.kyhuyen.com",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
-    {
-      "name": "Yêu Truyện",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/yeutruyen/plugin.zip",
-      "version": 1,
-      "source": "https://yeutruyen.online",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/yeutruyen/icon.png",
-      "description": "Đọc truyện trên trang yeutruyen",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
-    {
-      "name": "Lão phật gia",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/laophatgia/plugin.zip",
-      "version": 1,
-      "source": "https://laophatgia.net",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/laophatgia/icon.png",
-      "description": "Đọc truyện trên trang Lão phật gia",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
-    {
-      "name": "Đảo Truyện",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/daotruyen/plugin.zip",
-      "version": 2,
-      "source": "https://daotruyen.me",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/daotruyen/icon.png",
-      "description": "Đọc truyện trên trang daotruyen",
       "locale": "vi_VN",
       "type": "novel"
     },
