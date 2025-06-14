@@ -2,7 +2,7 @@
   "metadata": {
     "name": "manhuaus",
     "author": "Đường đen",
-    "version": 1,
+    "version": 2,
     "source": "https://manhuaus.com",
     "regexp": "https://manhuaus.com/manga/[0-9a-z-]+/?$",
     "description": "zinmanga",

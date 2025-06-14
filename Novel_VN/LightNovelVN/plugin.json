@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Light Novel VN",
+    "author": "Đường đen",
+    "version": 2,
+    "source": "https://lnvn.net/",
+    "regexp": "https://lnvn.net/(.+)--(.+)",
+    "description": "Read novel https://lnvn.net/",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -1,1 +1,0 @@
-var BASE_URL = "https://tinhlinh.com";  // Ưu tiên .com
