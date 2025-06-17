@@ -2,9 +2,9 @@
   "metadata": {
     "name": "Xbanxia - repo Đường đen",
     "author": "bexom",
-    "version": 3,
-    "source": "https://www.banxia.cc",
-    "regexp": "https://www.banxia.cc/(.*?)/?$",
+    "version": 4,
+    "source": "https://www.banxia.la",
+    "regexp": "https://www.banxia.la/(.*?)[.]html",
     "description": "Đọc truyện trên trang Xbanxia",
     "locale": "zh-CN",
     "language": "javascript",
