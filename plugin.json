@@ -140,6 +140,17 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+        {
+      "name": "piaotian-app",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/piaotian-app/plugin.zip",
+      "version": 1,
+      "source": "https://www.piaotian.app",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/piaotian-app/icon.png",
+      "description": "Đọc truyện trên trang piaotian.app",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
     {
       "name": "速读谷 - Sudugu",
       "author": "Đường đen",
