@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "name": "69yd",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://www.69yd.top/index.shtml",
+    "regexp": "^(?:https?:\\/\\/)?(?:www\\.)?69(?:yd)\\.[^\\/]+\\/articlecategroy\\/[^\\/]+\\.html$",
+    "description": "Đọc truyện trên trang 69yd. Search trên web",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "genre": "genre.js"
+  },
+    "config": {
+    "thread_num": 1,
+    "delay": 7000
+  }
+}

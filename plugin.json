@@ -118,6 +118,17 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+        {
+      "name": "69yd",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69yd/plugin.zip",
+      "version": 1,
+      "source": "https://www.69yd.top",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69yd/icon.png",
+      "description": "Đọc truyện trên trang 69yd. Lên web search",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
     {
       "name": "69hsz",
       "author": "Đường đen",
