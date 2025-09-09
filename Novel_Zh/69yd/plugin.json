@@ -2,8 +2,8 @@
   "metadata": {
     "name": "69yd",
     "author": "Đường đen",
-    "version": 1,
-    "source": "https://www.69yd.top/index.shtml",
+    "version": 2,
+    "source": "https://www.69yd.top",
     "regexp": "^(?:https?:\\/\\/)?(?:www\\.)?69(?:yd)\\.[^\\/]+\\/articlecategroy\\/[^\\/]+\\.html$",
     "description": "Đọc truyện trên trang 69yd. Search trên web",
     "locale": "zh_CN",
