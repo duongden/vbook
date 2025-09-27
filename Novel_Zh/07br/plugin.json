@@ -2,9 +2,9 @@
   "metadata": {
     "name": "笔趣阁-07br",
     "author": "Đường đen",
-    "version": 1,
+    "version": 2,
     "source": "https://www.07br.cc",
-    "regexp": "(www.|m.)?07br.cc/html/\\d+/?$",
+    "regexp": "(www.|m.)?3327a08b1.cfd/book/\\d+/?$",
     "description": "Đọc truyện trên trang 07br.cc",
     "locale": "zh_CN",
     "language": "javascript",
