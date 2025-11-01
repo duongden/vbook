@@ -111,8 +111,8 @@
       "name": "07br",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/07br/plugin.zip",
-      "version": 2,
-      "source": "https://www.07br.cc",
+      "version": 3,
+      "source": "https://www.a26b53.lol",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/07br/icon.png",
       "description": "Đọc truyện trên trang 07br",
       "type": "chinese_novel",
@@ -170,17 +170,6 @@
       "source": "https://www.sudugu.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sudugu/icon.png",
       "description": "Đọc truyện trên trang sudugu.",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "biqu5200",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biqu5200/plugin.zip",
-      "version": 2,
-      "source": "http://www.biqu5200.net",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biqu5200/icon.png",
-      "description": "Đọc truyện trên trang biqu5200.net.",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
