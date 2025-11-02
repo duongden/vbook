@@ -15,6 +15,17 @@
       "locale": "zh-CN"
     },
     {
+      "name": "uuxs.com - repo Đường đen",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/uuxs-com/plugin.zip",
+      "version": 1,
+      "source": "https://www.uuxs.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/uuxs-com/icon.png",
+      "description": "Đọc truyện trên trang uuxs.com",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "69shu - repo Đường đen",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/69shu/plugin.zip",
