@@ -107,17 +107,6 @@
       "language": "javascript",
       "type": "novel"
     },
-    {
-      "name": "deqixs",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/deqixs/plugin.zip",
-      "version": 1,
-      "source": "https://www.deqixs.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/deqixs/icon.png",
-      "description": "Đọc truyện trên trang deqixs",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
         {
       "name": "07br",
       "author": "Đường đen",
@@ -151,17 +140,6 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-    {
-      "name": "ijjxsw.cc",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjxsw-cc/plugin.zip",
-      "version": 1,
-      "source": "http://www.ijjxsw.cc",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjxsw-cc/icon.png",
-      "description": "Đọc truyện trên trang ijjxsw.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
         {
       "name": "piaotian-app",
       "author": "Đường đen",
@@ -170,17 +148,6 @@
       "source": "https://www.piaotian.app",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/piaotian-app/icon.png",
       "description": "Đọc truyện trên trang piaotian.app",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "速读谷 - Sudugu",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sudugu/plugin.zip",
-      "version": 3,
-      "source": "https://www.sudugu.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sudugu/icon.png",
-      "description": "Đọc truyện trên trang sudugu.",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
@@ -251,17 +218,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "香书小说 - ibiquge.la",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ibiquge-la/plugin.zip",
-      "version": 5,
-      "source": "http://www.xbiqugu.la",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ibiquge-la/icon.png",
-      "description": "Đọc truyện trên trang xbiqugu",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "shukw",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/shukw/shukw.zip",
@@ -304,17 +260,6 @@
       "description": "Đọc truyện trên trang https://q.kyhuyen.com",
       "locale": "vi_VN",
       "type": "novel"
-    },
-    {
-      "name": "qicaitian",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qicaitian/plugin.zip",
-      "version": 1,
-      "source": "https://www.qicaitian.org",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qicaitian/icon.png",
-      "description": "Trang qicaitian.org ko cho search",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
     },
     {
       "name": "ebookbao",
