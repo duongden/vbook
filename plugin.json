@@ -133,7 +133,7 @@
       "name": "69hsz",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69hsz/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://www.69hsz.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69hsz/icon.png",
       "description": "Đọc truyện trên trang 69hsz",
@@ -170,17 +170,6 @@
       "source": "https://www.29ad.cc",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/frgls/icon.png",
       "description": "Đọc truyện trên trang 29ad.cc. Sửa tên miền bằng Mã bổ sung",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "idejian",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/idejian/plugin.zip",
-      "version": 6,
-      "source": "https://www.idejian.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/idejian/icon.png",
-      "description": "Đọc truyện trên trang idejian",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
