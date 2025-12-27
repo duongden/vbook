@@ -25,6 +25,17 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+        {
+      "name": "69shumi",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/plugin.zip",
+      "version": 1,
+      "source": "https://69shumi.net",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/icon.png",
+      "description": "Đọc truyện trên trang 69shumi",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
     {
       "name": "69shu - repo Đường đen",
       "author": "Đường đen",

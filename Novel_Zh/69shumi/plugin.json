@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "69shumi",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://www.69shumi.net",
+    "regexp": "(www.|m.)?69shumi.net/\\d+/?$",
+    "description": "Đọc sách trên trang 69shumi",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
