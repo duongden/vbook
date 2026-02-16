@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "得奇小说网 - deqixs",
+    "author": "Đường đen",
+    "version": 2,
+    "source": "https://www.deqixs.co",
+    "regexp": "https://www.deqixs.co/\\d+/",
+    "description": "Đọc truyện trên trang deqixs",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

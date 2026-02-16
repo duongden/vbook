@@ -25,6 +25,17 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+                {
+      "name": "deqixs",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/deqixs/plugin.zip",
+      "version": 2,
+      "source": "https://www.deqixs.co",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/deqixs/icon.png",
+      "description": "Đọc truyện trên trang deqixs",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
             {
       "name": "sudugu",
       "author": "Đường đen",
@@ -225,17 +236,6 @@
       "source": "https://www.b520.cc",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/b520.cc/icon.png",
       "description": "Đọc truyện trên trang https://www.b520.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "shukw",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/shukw/shukw.zip",
-      "version": 12,
-      "source": "http://www.tvdl.net",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/shukw/icon.png",
-      "description": "Đọc truyện trên trang tvdl.net",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
