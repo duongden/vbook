@@ -48,17 +48,6 @@
       "locale": "zh_CN"
     },
         {
-      "name": "69shumi",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/plugin.zip",
-      "version": 1,
-      "source": "https://69shumi.net",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/icon.png",
-      "description": "Đọc truyện trên trang 69shumi",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-        {
       "name": "Jjwxc-repo duongden💰✅",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/jjwxc/plugin.zip",
@@ -155,7 +144,7 @@
       "name": "07br",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/07br/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://www.a26b53.lol",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/07br/icon.png",
       "description": "Đọc truyện trên trang 07br",
@@ -192,17 +181,6 @@
       "source": "https://www.juxiaoshuo.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/juxiaoshuo/icon.png",
       "description": "Đọc truyện trên trang juxiaoshuo",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "frgls",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/frgls/plugin.zip",
-      "version": 5,
-      "source": "https://www.29ad.cc",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/frgls/icon.png",
-      "description": "Đọc truyện trên trang 29ad.cc. Sửa tên miền bằng Mã bổ sung",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
