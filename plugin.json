@@ -218,17 +218,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "Light Novel VN",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/LightNovelVN/plugin.zip",
-      "version": 1,
-      "source": "https://lnvn.net/",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/LightNovelVN/icon.png",
-      "description": "Đọc truyện trên trang https://lnvn.net/",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
-    {
       "name": "Tinh Linh",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/tinhlinh/plugin.zip",
