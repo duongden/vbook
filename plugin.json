@@ -251,17 +251,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "manhuaus",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Comic_EN/manhuaus/plugin.zip",
-      "version": 1,
-      "source": "https://manhuaus.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Comic_EN/manhuaus/icon.png",
-      "description": "Đọc truyện trên trang manhuaus",
-      "locale": "en_US",
-      "type": "comic"
-    },
-    {
       "name": "Novel Next",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_EN/novelnext/plugin.zip",
