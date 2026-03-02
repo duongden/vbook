@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "笔趣阁-abcbiquge",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "http://www.abcbiquge.com",
+    "regexp": "(www.|m.)?abcbiquge.com/\\d+_\\d+/?$",
+    "description": "Đọc truyện trên trang abcbiquge",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -206,6 +206,17 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+        {
+      "name": "笔趣阁-abcbiquge",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/abcbiquge/plugin.zip",
+      "version": 1,
+      "source": "http://www.abcbiquge.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/abcbiquge/icon.png",
+      "description": "Đọc truyện trên trang abcbiquge",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
     {
       "name": "笔趣阁-b520",
       "author": "Đường đen",
