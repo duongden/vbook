@@ -2,10 +2,10 @@
   "metadata": {
     "name": "Jjwxc-repo duongden💰✅",
     "author": "Moleys",
-    "version": 46,
+    "version": 47,
     "source": "http://www.jjwxc.net",
     "regexp": "(www.|my.|m.)?jjwxc.net/(onebook|book2)(.*?)",
-    "description": "Đọc truyện trên trang http://www.jjwxc.net - Đọc chương VIP bằng cách nhập token trong Mã bổ sung",
+    "description": "Đọc truyện trên trang Tấn Giang - Đọc chương VIP bằng cách nhập token trong Mã bổ sung",
     "locale": "zh_CN",
     "language": "javascript",
     "type": "chinese_novel"
