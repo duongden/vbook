@@ -51,7 +51,7 @@
       "name": "Jjwxc-repo duongden💰✅",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/jjwxc/plugin.zip",
-      "version": 52,
+      "version": 54,
       "source": "http://www.jjwxc.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/jjwxc/icon.png",
       "description": "Đọc truyện trên trang Jjwxc",
@@ -181,17 +181,6 @@
       "source": "https://www.piaotian.app",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/piaotian-app/icon.png",
       "description": "Đọc truyện trên trang piaotian.app",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
-      "name": "【聚小说】juxiaoshuo",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/juxiaoshuo/plugin.zip",
-      "version": 1,
-      "source": "https://www.juxiaoshuo.net",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/juxiaoshuo/icon.png",
-      "description": "Đọc truyện trên trang juxiaoshuo",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
