@@ -239,7 +239,18 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-        {
+            {
+      "name": "Yêu truyện.online",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/yeutruyenonline/plugin.zip",
+      "version": 1,
+      "source": "https://yeutruyen.online",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/yeutruyenonline/icon.png",
+      "description": "Đọc truyện trên trang Yêu truyện",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
       "name": "MonkeyD VN - repo duongden",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/monkeyd/plugin.zip",
