@@ -239,6 +239,17 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+        {
+      "name": "MonkeyD VN - repo duongden",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/monkeyd/plugin.zip",
+      "version": 8,
+      "source": "https://monkeyd.net.vn",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/monkeyd/icon.png",
+      "description": "Đọc truyện trên trang MonkeyD",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
     {
       "name": "Tinh Linh",
       "author": "Đường đen",
