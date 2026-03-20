@@ -15,6 +15,17 @@
       "locale": "zh-CN"
     },
     {
+      "name": "quanben - repo Đường đen",
+      "author": "bexom",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/quanben/plugin.zip",
+      "version": 4,
+      "source": "https://quanben.io",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/quanben/icon.png",
+      "description": "Đọc truyện trên trang quanben",
+      "type": "chinese_novel",
+      "locale": "zh-CN"
+    },
+    {
       "name": "uuxs.com - repo Đường đen",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/uuxs-com/plugin.zip",

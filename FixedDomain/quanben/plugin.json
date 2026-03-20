@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "quanben - repo duongden",
+    "author": "hajljnopera",
+    "version": 4,
+    "source": "https://quanben.io",
+    "regexp": "quanben\\.io/n/[^/]+/?$",
+    "description": "Đọc truyện trên trang quanben.io",
+    "local": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
