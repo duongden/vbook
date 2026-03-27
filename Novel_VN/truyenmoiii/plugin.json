@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Truyện mới org",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://truyenmoiii.org",
+    "regexp": "(www.)?truyenmoiii.(org|net|io|bio|vision)/[^/]+/?$",
+    "description": "Đọc truyện trên trang truyenmoiii.org",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
