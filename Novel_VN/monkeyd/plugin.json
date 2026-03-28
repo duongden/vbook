@@ -2,9 +2,9 @@
   "metadata": {
     "name": "MonkeyD VN - repo duongden",
     "author": "Nhocconsr",
-    "version": 8,
-    "source": "https://monkeyd.net.vn",
-    "regexp": "(www\\.)?monkeyd(.*?)\\/[0-9a-z-]+\\.html",
+    "version": 9,
+    "source": "https://monkeydtruyen.com",
+    "regexp": "(www\\.)?monkeydtruyen(.*?)\\/[0-9a-z-]+\\.html",
     "description": "Đọc truyện MonkeyD",
     "locale": "vi-VN",
     "language": "javascript",
