@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Truyện Com",
+    "author": "B",
+    "version": 1,
+    "source": "https://truyencom.com",
+    "regexp": "truyencom\\.com/[^/]+\\.\\d+/?$",
+    "description": "Đọc truyện trên Truyện Com",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "page": "page.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
