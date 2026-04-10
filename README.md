@@ -1,26 +1,22 @@
-# Link hướng dẫn: 
-
-https://vbookapp.gitbook.io/huong-dan-su-dung
-
 # Giới thiệu
 
-
+## Giới thiệu
 
 > 💡 <mark style="color:$danger;">**Nếu bạn chưa đọc kĩ thì vui lòng đọc lại nhé!!!**</mark>
 
-### ⬇️ Download
+#### ⬇️ Download
 
-#### Android
+**Android**
 
 * **Bản ổn định:** [https://vbookapp.com/download](https://vbookapp.com/download)
 * **Bản beta:** [https://t.me/vbook\_beta\_up\_tracker\_chanhnh](https://t.me/vbook_beta_up_tracker_chanhnh) (nhận thông báo cập nhật và file cài đặt tại kênh này)
 
-#### iOS
+**iOS**
 
 * **Bản ổn định:** (không có)
 * **Bản beta:** [https://t.me/vbook\_beta\_up\_tracker\_chanhnh](https://t.me/vbook_beta_up_tracker_chanhnh) (nhận thông báo cập nhật và file cài đặt tại kênh này)
 
-#### Desktop
+**Desktop**
 
 * **Windows:** cập nhật sau
 * **Mac:** cập nhật sau
@@ -28,13 +24,13 @@ https://vbookapp.gitbook.io/huong-dan-su-dung
 
 ***
 
-### 🌐 Cộng đồng
+#### 🌐 Cộng đồng
 
 **Discord:** [https://discord.gg/UdT28CNw](https://discord.gg/UdT28CNw)
 
 ***
 
-### 🔰 Donate
+#### 🔰 Donate
 
 **Momo:** [https://me.momo.vn/donatevbook](https://me.momo.vn/donatevbook)
 
