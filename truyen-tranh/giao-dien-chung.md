@@ -1,3 +1,0 @@
-# Giao diện chung
-
-Cập nhật sau....
