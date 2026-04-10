@@ -1,6 +1,6 @@
 # Giới thiệu
 
-## Giới thiệu
+
 
 > 💡 <mark style="color:$danger;">**Nếu bạn chưa đọc kĩ thì vui lòng đọc lại nhé!!!**</mark>
 
