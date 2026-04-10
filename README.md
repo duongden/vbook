@@ -1,3 +1,7 @@
+# Link hướng dẫn: 
+
+https://vbookapp.gitbook.io/huong-dan-su-dung
+
 # Giới thiệu
 
 
