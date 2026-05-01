@@ -58,17 +58,6 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-        {
-      "name": "Jjwxc-repo duongden💰✅",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/jjwxc/plugin.zip",
-      "version": 55,
-      "source": "http://www.jjwxc.net",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/jjwxc/icon.png",
-      "description": "Đọc truyện trên trang Jjwxc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
     {
       "name": "69shu - repo Đường đen",
       "author": "Đường đen",
