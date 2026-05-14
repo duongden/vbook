@@ -83,7 +83,7 @@
     {
       "name": "Người Lao Động",
       "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/nguoilaodong/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/nguoilaodong/plugin.zip",
       "version": 1,
       "source": "https://nld.com.vn",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/nguoilaodong/icon.png",
@@ -95,7 +95,7 @@
     {
       "name": "vietnamnet",
       "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/vietnamnet/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/vietnamnet/plugin.zip",
       "version": 1,
       "source": "https://vietnamnet.vn",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/vietnamnet/icon.png",
@@ -107,7 +107,7 @@
     {
       "name": "Tuổi Trẻ",
       "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/tuoitre/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/tuoitre/plugin.zip",
       "version": 1,
       "source": "https://tuoitre.vn",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/tuoitre/icon.png",
@@ -119,7 +119,7 @@
     {
       "name": "vnexpress",
       "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/vnexpress/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/vnexpress/plugin.zip",
       "version": 2,
       "source": "https://vnexpress.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/vnexpress/icon.png",
@@ -131,7 +131,7 @@
     {
       "name": "soha",
       "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook_news/main/VN_news/soha/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/soha/plugin.zip",
       "version": 1,
       "source": "https://m.soha.vn",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/soha/icon.png",
