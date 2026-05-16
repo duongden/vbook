@@ -218,17 +218,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "笔趣阁-b520",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/b520.cc/plugin.zip",
-      "version": 3,
-      "source": "https://www.b520.cc",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/b520.cc/icon.png",
-      "description": "Đọc truyện trên trang https://www.b520.cc",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-            {
       "name": "Yêu truyện.online",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/yeutruyenonline/plugin.zip",
