@@ -3,7 +3,19 @@
     "author": "Đường đen",
     "description": "amateur"
   },
-  "data": [{
+  "data": [
+    {
+      "name": "truyenfull",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/truyenfull/plugin.zip",
+      "version": 12,
+      "source": "https://truyenfull.today",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/truyenfull/icon.png",
+      "description": "Đọc truyện trên trang Truyện full",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Xbanxia - repo Đường đen",
       "author": "bexom",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/xbanxia/plugin.zip",
