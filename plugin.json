@@ -200,10 +200,10 @@
       "name": "soxscc",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/soxscc/plugin.zip",
-      "version": 1,
-      "source": "https://www.soxscc.net",
+      "version": 2,
+      "source": "https://www.xinsoxs.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/soxscc/icon.png",
-      "description": "soxscc.net - search bằng browser",
+      "description": "xinsoxs.com - search bằng browser",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
