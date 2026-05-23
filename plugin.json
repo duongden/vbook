@@ -272,6 +272,17 @@
       "description": "Đọc truyện trên trang https://tinhlinh.com",
       "locale": "vi_VN",
       "type": "novel"
+          },
+      {
+      "name": "Đảo truyện",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/daotruyen/plugin.zip",
+      "version": 2,
+      "source": "https://daotruyen.me",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/daotruyen/icon.png",
+      "description": "Đọc truyện trên trang Đảo truyện",
+      "locale": "vi_VN",
+      "type": "novel"
     },
         {
       "name": "Truyện mới org",
