@@ -175,6 +175,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "69shumi",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/plugin.zip",
+      "version": 3,
+      "source": "https://www.69shumi.net",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/icon.png",
+      "description": "Đọc truyện trên trang 69shumi",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "69hsz",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69hsz/plugin.zip",
@@ -237,6 +248,17 @@
       "source": "https://www.monkeydd.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/monkeyd/icon.png",
       "description": "Đọc truyện trên trang MonkeyD",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+        {
+      "name": "Lão phật gia",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/laophatgia/plugin.zip",
+      "version": 1,
+      "source": "https://laophatgia.net",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/laophatgia/icon.png",
+      "description": "Đọc truyện trên trang Lão phật gia",
       "locale": "vi_VN",
       "type": "novel"
     },
