@@ -351,6 +351,28 @@
       "type": "novel"
     },
     {
+      "name": "Fan MTL",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_EN/fanmtl/plugin.zip",
+      "version": 1,
+      "source": "https://www.fanmtl.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_EN/fanmtl/icon.png",
+      "description": "Đọc truyện trên trang Fan MTL",
+      "locale": "en_US",
+      "type": "novel"
+    },
+    {
+      "name": "All Novel",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_EN/allnovel/plugin.zip",
+      "version": 1,
+      "source": "https://allnovel.org",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_EN/allnovel/icon.png",
+      "description": "Đọc truyện trên trang All Novel",
+      "locale": "en_US",
+      "type": "novel"
+    },
+    {
       "name": "Viblo",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/viblo/plugin.zip",
