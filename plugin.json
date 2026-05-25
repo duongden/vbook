@@ -59,7 +59,18 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-            {
+    {
+      "name": "sweetastes",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sweetastes/plugin.zip",
+      "version": 1,
+      "source": "https://www.bjtriz.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sweetastes/icon.png",
+      "description": "Đọc truyện trên trang bjtriz, chỉ đọc chương free",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "sudugu",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sudugu/plugin.zip",
@@ -182,6 +193,17 @@
       "source": "https://www.69shumi.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/icon.png",
       "description": "Đọc truyện trên trang 69shumi",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "biqugess",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biqugess/plugin.zip",
+      "version": 1,
+      "source": "http://www.biqugess.co",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/biqugess/icon.png",
+      "description": "Đọc truyện trên trang biqugess",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
