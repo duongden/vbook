@@ -48,7 +48,18 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-                {
+    {
+      "name": "czbooks - repo Đường đen",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/czbooks/plugin.zip",
+      "version": 3,
+      "source": "https://czbooks.net",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/czbooks/icon.png",
+      "description": "Đọc truyện trên trang czbooks",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "deqixs",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/deqixs/plugin.zip",
@@ -163,7 +174,7 @@
       "language": "javascript",
       "type": "novel"
     },
-       {
+    {
       "name": "qimao - repo Đường đen",
       "author": "Nhocconsr",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qimao/plugin.zip",
@@ -174,7 +185,7 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-        {
+    {
       "name": "07br",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/07br/plugin.zip",
@@ -240,7 +251,7 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
-        {
+    {
       "name": "笔趣阁-abcbiquge",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/abcbiquge/plugin.zip",
@@ -273,7 +284,7 @@
       "locale": "vi_VN",
       "type": "novel"
     },
-        {
+    {
       "name": "Lão phật gia",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/laophatgia/plugin.zip",
@@ -284,7 +295,7 @@
       "locale": "vi_VN",
       "type": "novel"
     },
-       {
+    {
       "name": "Truyện Com",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyencom/plugin.zip",
@@ -305,8 +316,8 @@
       "description": "Đọc truyện trên trang https://tinhlinh.com",
       "locale": "vi_VN",
       "type": "novel"
-          },
-      {
+    },
+    {
       "name": "Đảo truyện",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/daotruyen/plugin.zip",
@@ -317,7 +328,7 @@
       "locale": "vi_VN",
       "type": "novel"
     },
-        {
+    {
       "name": "Truyện mới org",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyenmoiii/plugin.zip",
@@ -339,7 +350,7 @@
       "locale": "vi_VN",
       "type": "novel"
     },
-        {
+    {
       "name": "ijjjxsxzw",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjjxsxzw/plugin.zip",
