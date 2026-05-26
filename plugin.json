@@ -197,6 +197,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "85 Novel",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/85novel/plugin.zip",
+      "version": 1,
+      "source": "https://www.85novel.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/85novel/icon.png",
+      "description": "Tải nhanh sẽ bị ban IP, set 1 luồng 30s",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "69shumi",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shumi/plugin.zip",
