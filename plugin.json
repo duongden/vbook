@@ -427,11 +427,22 @@
       "locale": "en_US",
       "type": "novel"
     },
+{
+      "name": "Spiderum",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/spiderum/plugin.zip",
+      "version": 1,
+      "source": "https://spiderum.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/spiderum/icon.png",
+      "description": "Đọc spiderum trên vBook",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
     {
       "name": "Viblo",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/viblo/plugin.zip",
-      "version": 2,
+      "version": 4,
       "source": "https://viblo.asia",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/viblo/icon.png",
       "description": "Đọc viblo trên vBook",
