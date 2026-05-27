@@ -197,6 +197,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "piaotian-app",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/piaotian-app/plugin.zip",
+      "version": 3,
+      "source": "https://www.piaotianapp.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/piaotian-app/icon.png",
+      "description": "Đọc sách trên trang piaotianapp.com",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "85 Novel",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/85novel/plugin.zip",
