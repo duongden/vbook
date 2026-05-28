@@ -82,6 +82,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "Weibo",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/weibo/plugin.zip",
+      "version": 5,
+      "source": "https://m.weibo.cn",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/weibo/icon.png",
+      "description": "Đọc bài đăng Weibo. Ưu tiên bản beta. Mở trang nguồn trước rồi quay lại app.",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "sudugu",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sudugu/plugin.zip",
