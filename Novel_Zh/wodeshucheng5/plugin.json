@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "wodeshucheng5",
+    "author": "Đường đen",
+    "version": 1,
+    "source": "https://www.wodeshucheng5.com",
+    "regexp": "(www\\.)?wodeshucheng5\\.com\\/book_\\d+\\/?(?:\\d+\\/?|\\d+(?:_\\d+)?\\.html)?",
+    "description": "Đọc sách trên trang wodeshucheng5",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

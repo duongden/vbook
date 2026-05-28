@@ -93,6 +93,28 @@
       "locale": "zh_CN"
     },
     {
+      "name": "wodeshucheng5",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/wodeshucheng5/plugin.zip",
+      "version": 1,
+      "source": "https://www.wodeshucheng5.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/wodeshucheng5/icon.png",
+      "description": "Đọc truyện trên trang wodeshucheng5",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "75zwcom",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/75zwcom/plugin.zip",
+      "version": 1,
+      "source": "https://m.75zwcom.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/75zwcom/icon.png",
+      "description": "Đọc truyện trên trang 75zwcom",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "sudugu",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sudugu/plugin.zip",
