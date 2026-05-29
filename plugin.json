@@ -118,7 +118,7 @@
       "name": "Weibo",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/weibo/plugin.zip",
-      "version": 5,
+      "version": 6,
       "source": "https://m.weibo.cn",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/weibo/icon.png",
       "description": "Đọc bài đăng Weibo. Ưu tiên bản beta. Mở trang nguồn trước rồi quay lại app.",
