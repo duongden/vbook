@@ -5,6 +5,39 @@
   },
   "data": [
     {
+      "name": "Truyện đề xuất",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyendexuat/plugin.zip",
+      "version": 1,
+      "source": "https://truyendexuat.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyendexuat/icon.png",
+      "description": "Đọc truyện trên trang Truyện đề xuất",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Truyện TV",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyentvsite/plugin.zip",
+      "version": 1,
+      "source": "https://truyentv.site",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyentvsite/icon.png",
+      "description": "Đọc truyện trên trang Truyện TV",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "Ổ của Dưa",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/ocuadua/plugin.zip",
+      "version": 1,
+      "source": "https://www.ocuadua.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/ocuadua/icon.png",
+      "description": "Đọc truyện trên trang Ổ của Dưa",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "truyenfull",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/truyenfull/plugin.zip",
@@ -470,6 +503,17 @@
       "description": "Đọc spiderum trên vBook",
       "locale": "vi_VN",
       "type": "novel"
+    },
+    {
+      "name": "sohu",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/sohu/plugin.zip",
+      "version": 1,
+      "source": "https://www.sohu.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/sohu/icon.png",
+      "description": "Đọc sohu trên vBook",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
     },
     {
       "name": "Viblo",
