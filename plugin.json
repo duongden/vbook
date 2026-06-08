@@ -104,6 +104,28 @@
       "locale": "zh_CN"
     },
     {
+      "name": "quanwenyuedu",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/quanwenyuedu/plugin.zip",
+      "version": 2,
+      "source": "https://www.quanwenyuedu.io",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/quanwenyuedu/icon.png",
+      "description": "Đọc truyện trên trang quanwenyuedu",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "qmbook",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qmbook/plugin.zip",
+      "version": 3,
+      "source": "https://m.bqg647.xyz/#/",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qmbook/icon.png",
+      "description": "Đọc truyện trên trang qmbook",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "sweetastes",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sweetastes/plugin.zip",
