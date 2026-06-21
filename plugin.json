@@ -129,7 +129,7 @@
       "name": "sweetastes",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sweetastes/plugin.zip",
-      "version": 2,
+      "version": 3,
       "source": "https://www.bjtriz.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sweetastes/icon.png",
       "description": "Đọc truyện trên trang bjtriz, chỉ đọc chương free",
@@ -281,6 +281,17 @@
       "source": "https://www.bqg128.xyz/#/",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/07br/icon.png",
       "description": "Đọc truyện trên trang 07br",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "8book",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/8book/plugin.zip",
+      "version": 7,
+      "source": "https://www.8book.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/8book/icon.png",
+      "description": "Đọc novel trên trang 8book",
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
