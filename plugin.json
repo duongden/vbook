@@ -296,6 +296,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "bookszw",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/bookszw/plugin.zip",
+      "version": 1,
+      "source": "http://m.bookszw.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/bookszw/icon.png",
+      "description": "Đọc novel trên trang bookszw",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "piaotian-app",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/piaotian-app/plugin.zip",
