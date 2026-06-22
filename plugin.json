@@ -449,6 +449,17 @@
       "locale": "vi_VN",
       "type": "novel"
     },
+        {
+      "name": "Mê truyện",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/metruyenmobi/plugin.zip",
+      "version": 4,
+      "source": "https://metruyen.fit",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/metruyenmobi/icon.png",
+      "description": "Đọc truyện trên trang Mê truyện",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
     {
       "name": "Đảo truyện",
       "author": "Đường đen",
