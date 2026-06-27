@@ -93,6 +93,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "69书吧",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shuxyz/plugin.zip",
+      "version": 1,
+      "source": "https://www.69shu.xyz",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/69shuxyz/icon.png",
+      "description": "Đọc truyện trên trang 69shu.xyz",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "deqixs",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/deqixs/plugin.zip",
