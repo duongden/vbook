@@ -516,6 +516,17 @@
       "type": "novel"
     },
     {
+      "name": "101kks",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/101kks/plugin.zip",
+      "version": 1,
+      "source": "https://101kks.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/101kks/icon.png",
+      "description": "Đọc truyện trên trang 101kks - phồn thể",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "ijjjxsxzw",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ijjjxsxzw/plugin.zip",
