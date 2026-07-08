@@ -570,17 +570,6 @@
       "locale": "en_US",
       "type": "novel"
     },
-{
-      "name": "Spiderum",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/spiderum/plugin.zip",
-      "version": 1,
-      "source": "https://spiderum.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/spiderum/icon.png",
-      "description": "Đọc spiderum trên vBook",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
     {
       "name": "sohu",
       "author": "Đường đen",
