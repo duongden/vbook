@@ -494,6 +494,28 @@
       "type": "novel"
     },
     {
+      "name": "Nguyệt Lâu",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/nguyetlau/plugin.zip",
+      "version": 5,
+      "source": "https://nguyetlau.top",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/nguyetlau/icon.png",
+      "description": "Đọc truyện trên trang Nguyệt Lâu",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
+      "name": "vivutruyencom",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/vivutruyencom/plugin.zip",
+      "version": 1,
+      "source": "https://vivutruyen.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/vivutruyencom/icon.png",
+      "description": "Đọc truyện trên trang vivutruyen.com",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
       "name": "Truyện mới org",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyenmoiii/plugin.zip",
