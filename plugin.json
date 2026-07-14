@@ -494,6 +494,17 @@
       "type": "novel"
     },
     {
+      "name": "Tàng Thư Viện(org)",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/tangthuvienorg/plugin.zip",
+      "version": 1,
+      "source": "https://tangthuvien.org",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/tangthuvienorg/icon.png",
+      "description": "Đọc truyện trên trang Tàng Thư Viện(org)",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
       "name": "Nguyệt Lâu",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/nguyetlau/plugin.zip",
