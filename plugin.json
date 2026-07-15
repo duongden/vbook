@@ -461,17 +461,6 @@
       "type": "novel"
     },
     {
-      "name": "Truyện Com",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyencom/plugin.zip",
-      "version": 3,
-      "source": "https://truyencom.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyencom/icon.png",
-      "description": "Đọc truyện trên trang https://truyencom.com/",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
-    {
       "name": "Tinh Linh",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/tinhlinh/plugin.zip",
