@@ -159,6 +159,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "101Minc",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/101Minc/plugin.zip",
+      "version": 1,
+      "source": "https://www.101Minc.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/101Minc/icon.png",
+      "description": "Đọc truyện trên trang 101Minc",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "wodeshucheng5",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/wodeshucheng5/plugin.zip",
@@ -204,9 +215,9 @@
     },
     {
       "name": "qimao - repo Đường đen",
-      "author": "Nhocconsr",
+      "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qimao/plugin.zip",
-      "version": 9,
+      "version": 12,
       "source": "https://www.qimao.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qimao/icon.png",
       "description": "Đọc truyện trên trang qimao",
