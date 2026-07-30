@@ -85,7 +85,7 @@
       "name": "czbooks - repo Đường đen",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/czbooks/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://czbooks.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/czbooks/icon.png",
       "description": "Đọc truyện trên trang czbooks",
