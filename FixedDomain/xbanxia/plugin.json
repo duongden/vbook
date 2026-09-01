@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Xbanxia - repo Đường đen",
+    "author": "bexom",
+    "version": 5,
+    "source": "https://www.banxia.cc",
+    "regexp": "^https://www\\.xbanxia\\.cc/books/\\d+\\.html/?$",
+    "description": "Đọc truyện trên trang Xbanxia",
+    "locale": "zh-CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

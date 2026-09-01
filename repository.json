@@ -1,0 +1,47 @@
+[
+  {
+    "link": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/plugin.json",
+    "author": "vBook",
+    "description": "Extension mặc định"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/chinese_plugin.json",
+    "author": "vBook",
+    "description": "Extension trang chinese"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/lethituyen/vbooks-extension/refs/heads/master/plugin.json",
+    "author": "Nhocconsr",
+    "description": "Thích là nhích ^^"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/plugin.json",
+    "author": "Moleys",
+    "description": "🧐"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/plugin.json",
+    "author": "B",
+    "description": "@.@"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/duongden/vbook/main/plugin.json",
+    "author": "Đường đen",
+    "description": "amateur"
+  },
+  {
+    "link": "https://raw.githubusercontent.com/duongden/vbook/main/plugin.json",
+    "author": "Đường đen",
+    "description": "Đường đen"
+  },
+    {
+    "link": "https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/plugin.json",
+    "author": "Quốc Bảo",
+    "description": "Quốc Bảo"
+  },
+    {
+    "link": "https://raw.githubusercontent.com/Chanhnh/vbook-ext/main/plugin.json",
+    "author": "Chanhnh",
+    "description": "Chanhnh"
+  }
+]
