@@ -269,6 +269,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "douban",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/douban/plugin.zip",
+      "version": 1,
+      "source": "https://read.douban.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/douban/icon.png",
+      "description": "Đọc Douban Reading. Không có tài khoản để test Vip",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },   
+    {
       "name": "qimao - repo Đường đen",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qimao/plugin.zip",
