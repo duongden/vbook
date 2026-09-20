@@ -280,39 +280,6 @@
       "locale": "zh_CN"
     }, 
     {
-      "name": "HuaziDM (花子动漫)",
-      "author": "Đường đen",
-      "path": "https://vbook.trasua.workers.dev/extensions/trasua/wa6a0IYicRRbv-GCULqO6_7-P-71lCrZ2t9NGkSm3yk/huazidm/plugin.zip",
-      "version": 3,
-      "source": "https://www.huazidm.com",
-      "icon": "https://vbook.trasua.workers.dev/extensions/trasua/wa6a0IYicRRbv-GCULqO6_7-P-71lCrZ2t9NGkSm3yk/huazidm/icon.png",
-      "description": "Coi phim trên trang huazidm",
-      "type": "video",
-      "locale": "zh_CN"
-    }, 
-    {
-      "name": "Bili · Phim",
-      "author": "Đường đen",
-      "path": "https://vbook.trasua.workers.dev/extensions/trasua/wa6a0IYicRRbv-GCULqO6_7-P-71lCrZ2t9NGkSm3yk/bilibili-com/plugin.zip",
-      "version": 3,
-      "source": "https://www.bilibili.com",
-      "icon": "https://vbook.trasua.workers.dev/extensions/trasua/wa6a0IYicRRbv-GCULqO6_7-P-71lCrZ2t9NGkSm3yk/bilibili-com/icon.png",
-      "description": "Coi phim trên trang qimao",
-      "type": "video",
-      "locale": "zh_CN"
-    },  
-    {
-      "name": "Qimao Phim ngắn (七猫短剧)",
-      "author": "Đường đen",
-      "path": "https://vbook.trasua.workers.dev/extensions/trasua/wa6a0IYicRRbv-GCULqO6_7-P-71lCrZ2t9NGkSm3yk/qimao/plugin.zip",
-      "version": 3,
-      "source": "https://api-gw.wtzw.com",
-      "icon": "https://vbook.trasua.workers.dev/extensions/trasua/wa6a0IYicRRbv-GCULqO6_7-P-71lCrZ2t9NGkSm3yk/qimao/icon.png",
-      "description": "Coi phim trên trang qimao",
-      "type": "video",
-      "locale": "zh_CN"
-    },
-    {
       "name": "qimao - repo Đường đen",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/qimao/plugin.zip",
