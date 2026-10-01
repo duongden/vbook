@@ -401,17 +401,6 @@
       "locale": "zh_CN"
     },
     {
-      "name": "soxscc",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/soxscc/plugin.zip",
-      "version": 2,
-      "source": "https://www.xinsoxs.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/soxscc/icon.png",
-      "description": "xinsoxs.com - search bằng browser",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    },
-    {
       "name": "x33xs4",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/x33xs4/plugin.zip",
