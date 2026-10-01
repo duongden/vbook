@@ -82,6 +82,17 @@
       "locale": "zh_CN"
     }, 
     {
+      "name": "搜笔趣阁",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sobqg/plugin.zip",
+      "version": 9,
+      "source": "https://www.sobqg.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sobqg/icon.png",
+      "description": "搜笔趣阁 - sobqg.com",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },  
+    {
       "name": "Jjwxc-repo duongden💰✅",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/jjwxc/plugin.zip",
