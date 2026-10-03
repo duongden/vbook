@@ -148,6 +148,39 @@
       "locale": "zh_CN"
     },
     {
+      "name": "NetEase Music",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/audio/netease/plugin.zip",
+      "version": 2,
+      "source": "https://music.163.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/audio/netease/icon.png",
+      "description": "Nghe nhạc từ netease",
+      "type": "audio",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "QQ Music",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/audio/qqmusic/plugin.zip",
+      "version": 2,
+      "source": "ttps://y.qq.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/audio/qqmusic/icon.png",
+      "description": "Nghe nhạc từ qqmusic",
+      "type": "audio",
+      "locale": "zh_CN"
+    },
+    {
+      "name": "Kugou Music",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/audio/kugou/plugin.zip",
+      "version": 2,
+      "source": "https://songsearch.kugou.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/audio/kugou/icon.png",
+      "description": "Nghe nhạc từ Kuguo",
+      "type": "audio",
+      "locale": "zh_CN"
+    },
+    {
       "name": "5sing Kugou",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/audio/5singkugou/plugin.zip",
