@@ -82,6 +82,17 @@
       "locale": "zh_CN"
     }, 
     {
+      "name": "Langgee",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/langge/plugin.zip",
+      "version": 1,
+      "source": "https://v5.langge.uk",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/langge/icon.png",
+      "description": "Sói xám Langee. Cần có tài khoản Sói xám; nhập token để đọc nội dung theo quyền tài khoản.",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "搜笔趣阁",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sobqg/plugin.zip",
