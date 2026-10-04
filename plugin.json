@@ -467,17 +467,6 @@
       "type": "novel"
     },
     {
-      "name": "Dịch truyện tự động từ Qidian",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/Qkyhuyen/plugin.zip",
-      "version": 3,
-      "source": "https://q.kyhuyen.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/Qkyhuyen/icon.png",
-      "description": "Đọc truyện trên trang https://q.kyhuyen.com",
-      "locale": "vi_VN",
-      "type": "novel"
-    },
-    {
       "name": "101kks",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/101kks/plugin.zip",
