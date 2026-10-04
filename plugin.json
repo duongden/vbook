@@ -433,11 +433,22 @@
       "type": "chinese_novel",
       "locale": "zh_CN"
     },
+   {
+      "name": "Truyện Dịch AI",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyendichai/plugin.zip",
+      "version": 2,
+      "source": "https://truyendichai.top",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/truyendichai/icon.png",
+      "description": "Đọc truyện trên truyendichai.top",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
     {
       "name": "Tinh Linh",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/tinhlinh/plugin.zip",
-      "version": 4,
+      "version": 6,
       "source": "https://tinhlinh.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_VN/tinhlinh/icon.png",
       "description": "Đọc truyện trên trang https://tinhlinh.com",
