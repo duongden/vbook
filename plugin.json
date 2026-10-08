@@ -19,7 +19,7 @@
       "name": "Trạm B",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/video/tramb/plugin.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://www.bilibili.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/video/tramb/icon.png",
       "description": "Bili Trung. Cần cookie để sử dụng. Quyền xem phụ thuộc quyền truy cập của tài khoản người dùng (VIP hoặc nội dung đã mua) và giới hạn khu vực của Bilibili.",
