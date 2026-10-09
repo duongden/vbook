@@ -19,7 +19,7 @@
       "name": "Douyin",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/video/douyin/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://www.douyin.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/video/douyin/icon.png",
       "description": "Xem douyin. Đăng nhập trang nguồn trong trình duyệt vBook để dùng phiên Douyin.",
