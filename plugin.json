@@ -82,6 +82,28 @@
       "locale": "zh-CN"
     },
     {
+      "name": "TaoNovel",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/taonovel/plugin.zip",
+      "version": 3,
+    "source": "https://tybook.taoyuewenhua.net",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/taonovel/icon.png",
+      "description": "Tao novel.",
+      "type": "chinese_novel",
+      "locale": "zh-CN"
+    },
+    {
+      "name": "Moyue · Mặc Duyệt",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/moyue/plugin.zip",
+      "version": 5,
+      "source": "https://moyue.app",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/moyue/icon.png",
+      "description": "Tiểu thuyết Moyue. Nguồn VIP cần token Moyue.",
+      "type": "chinese_novel",
+      "locale": "zh-CN"
+    },
+    {
       "name": "quanben - repo Đường đen",
       "author": "hajljnopera",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/FixedDomain/quanben/plugin.zip",
@@ -92,6 +114,61 @@
       "type": "chinese_novel",
       "locale": "zh-CN"
     },
+    {
+      "name": "Bili Light Novel",
+      "author": "Đường đen",
+      "path": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/bibilinovel/plugin.zip",
+      "version": 2,
+      "source": "https://www.bilinovel.net",
+      "icon": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/bibilinovel/icon.png",
+      "description": "Trang này ban rất gắt. Tải chậm để không bị ban. Bị ban thì ko fix nữa =)).",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }, 
+    {
+      "name": "Bili Light Novel",
+      "author": "Đường đen",
+      "path": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/bibilinovel/plugin.zip",
+      "version": 2,
+      "source": "https://www.bilinovel.net",
+      "icon": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/bibilinovel/icon.png",
+      "description": "Trang này ban rất gắt. Tải chậm để không bị ban. Bị ban thì ko fix nữa =)).",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }, 
+    {
+      "name": "Midureader",
+      "author": "Đường đen",
+      "path": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/midureader/plugin.zip",
+      "version": 7,
+      "source": "https://midureader.com",
+      "icon": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/midureader/icon.png",
+      "description": "Đọc truyện trên Midu",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }, 
+    {
+      "name": "ZJRead",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zjread/plugin.zip",
+      "version": 4,
+      "source": "https://www.zjread.cc",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zjread/icon.png",
+      "description": "Tìm truyện trên zjread",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }, 
+    {
+      "name": "Dưa Hấu",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/duahau/plugin.zip",
+      "version": 3,
+      "source": "https://xgmf.zuanqianyi.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/duahau/icon.png",
+      "description": "Tiểu thuyết dưa hấu",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }, 
     {
       "name": "czbooks - repo Đường đen",
       "author": "Đường đen",
