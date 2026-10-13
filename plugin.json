@@ -16,6 +16,17 @@
       "locale": "vi_VN"
     },
    {
+      "name": "Hồng quả",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/video/hongguo/plugin.zip",
+      "version": 2,
+      "source": "https://hongguoduanju.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/video/hongguo/icon.png",
+      "description": "Phim ngắn và hoạt hình Hongguo",
+     "locale": "zh-CN",
+     "type": "video"
+    },
+   {
       "name": "Douyin",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/video/douyin/plugin.zip",
@@ -85,7 +96,7 @@
       "name": "TaoNovel",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/taonovel/plugin.zip",
-      "version": 3,
+      "version": 4,
     "source": "https://tybook.taoyuewenhua.net",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/taonovel/icon.png",
       "description": "Tao novel.",
@@ -401,6 +412,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "LOFTER",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/lofter/plugin.zip",
+      "version": 6,
+      "source": "https://www.sudugu.org",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/lofter/icon.png",
+      "description": "Đọc bài chữ và tuyển tập LOFTER. Tìm #tên tuyển tập, @tác giả; nội dung giới hạn cần phiên có quyền đọc.",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "sudugu",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/sudugu/plugin.zip",
@@ -426,7 +448,7 @@
       "name": "douban",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/douban/plugin.zip",
-      "version": 3,
+      "version": 4,
       "source": "https://read.douban.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/douban/icon.png",
       "description": "Đọc Douban Reading. Không có tài khoản để test Vip",
