@@ -159,17 +159,6 @@
       "locale": "zh_CN"
     }, 
     {
-      "name": "ZJRead",
-      "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zjread/plugin.zip",
-      "version": 4,
-      "source": "https://www.zjread.cc",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/zjread/icon.png",
-      "description": "Tìm truyện trên zjread",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
-    }, 
-    {
       "name": "Dưa Hấu",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/duahau/plugin.zip",
