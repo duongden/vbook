@@ -162,7 +162,7 @@
       "name": "HuaziDM (花子动漫)",
       "author": "Đường đen",
       "path": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/huazidm/plugin.zip",
-      "version": 5,
+      "version": 6,
       "source": "https://www.huazidm.com",
       "icon": "https://vbook.trasua.workers.dev/s/SMVfAou7fZmyjrMHiGNy_A/huazidm/icon.png",
       "description": "Coi phim trên trang huazidm",
@@ -188,6 +188,17 @@
       "source": "https://xgmf.zuanqianyi.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/duahau/icon.png",
       "description": "Tiểu thuyết dưa hấu",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }, 
+    {
+      "name": "YPShuo - Bình luận sách",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ypshuo/plugin.zip",
+      "version": 3,
+      "source": "https://www.ypshuo.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ypshuo/icon.png",
+      "description": "Đọc bình luận truyện trên trang ypshuo",
       "type": "chinese_novel",
       "locale": "zh_CN"
     }, 
