@@ -390,6 +390,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "baikebaidu",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/baikebaidu/plugin.zip",
+      "version": 2,
+      "source": "https://baike.baidu.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/baikebaidu/icon.png",
+      "description": "Đọc bài đăng baikebaidu.",
+      "type": "news",
+      "locale": "zh_CN"
+    },
+    {
       "name": "Weibo",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/weibo/plugin.zip",
