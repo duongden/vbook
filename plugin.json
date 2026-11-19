@@ -668,7 +668,7 @@
       "name": "Viblo",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/viblo/plugin.zip",
-      "version": 4,
+      "version": 6,
       "source": "https://viblo.asia",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/viblo/icon.png",
       "description": "Đọc viblo trên vBook",
