@@ -392,10 +392,10 @@
     {
       "name": "baikebaidu",
       "author": "Đường đen",
-      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/baikebaidu/plugin.zip",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/baike/plugin.zip",
       "version": 2,
       "source": "https://baike.baidu.com",
-      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/baikebaidu/icon.png",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/baike/icon.png",
       "description": "Đọc bài đăng baikebaidu.",
       "type": "news",
       "locale": "zh_CN"
