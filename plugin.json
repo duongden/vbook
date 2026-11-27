@@ -199,14 +199,25 @@
       "source": "https://xgmf.zuanqianyi.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/duahau/icon.png",
       "description": "Tiểu thuyết dưa hấu",
-      "type": "chinese_novel",
+      "type": "forum",
+      "locale": "zh_CN"
+    }, 
+    {
+      "name": "bbs-YPShuo",
+      "author": "Đường đen",
+      "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ypshuobbs/plugin.zip",
+      "version": 4,
+      "source": "https://www.ypshuo.com",
+      "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ypshuobbs/icon.png",
+      "description": "Đọc bình luận trên diễn đàn ypshuo. Cần đăng nhập",
+      "type": "forum",
       "locale": "zh_CN"
     }, 
     {
       "name": "YPShuo - Bình luận sách",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ypshuo/plugin.zip",
-      "version": 3,
+      "version": 12,
       "source": "https://www.ypshuo.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/ypshuo/icon.png",
       "description": "Đọc bình luận truyện trên trang ypshuo",
@@ -408,7 +419,7 @@
       "source": "https://m.weibo.cn",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/weibo/icon.png",
       "description": "Đọc bài đăng Weibo. Ưu tiên bản beta. Mở trang nguồn trước rồi quay lại app.",
-      "type": "chinese_novel",
+      "type": "forum",
       "locale": "zh_CN"
     },
     {
@@ -448,11 +459,11 @@
       "name": "LOFTER",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/lofter/plugin.zip",
-      "version": 6,
-      "source": "https://www.sudugu.org",
+      "version": 12,
+      "source": "https://www.lofter.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/lofter/icon.png",
       "description": "Đọc bài chữ và tuyển tập LOFTER. Tìm #tên tuyển tập, @tác giả; nội dung giới hạn cần phiên có quyền đọc.",
-      "type": "chinese_novel",
+      "type": "forum",
       "locale": "zh_CN"
     },
     {
@@ -662,7 +673,7 @@
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/sohu/icon.png",
       "description": "Đọc sohu trên vBook",
       "locale": "zh_CN",
-      "type": "chinese_novel"
+      "type": "news"
     },
     {
       "name": "Viblo",
@@ -673,7 +684,7 @@
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/VN_news/viblo/icon.png",
       "description": "Đọc viblo trên vBook",
       "locale": "vi_VN",
-      "type": "novel"
+      "type": "news"
     }
   ]
 }
