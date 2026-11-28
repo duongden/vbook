@@ -459,7 +459,7 @@
       "name": "LOFTER",
       "author": "Đường đen",
       "path": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/lofter/plugin.zip",
-      "version": 17,
+      "version": 19,
       "source": "https://www.lofter.com",
       "icon": "https://raw.githubusercontent.com/duongden/vbook/main/Novel_Zh/lofter/icon.png",
       "description": "Đọc bài chữ và tuyển tập LOFTER. Tìm #tên tuyển tập, @tác giả; nội dung giới hạn cần phiên có quyền đọc.",
